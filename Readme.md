@@ -10,7 +10,7 @@ This project can also connect to simple MongoDB run databases via ComfyDB. This 
 
 ## Steps:
 
-## Set Up
+### Set Up
 
 - Fork this project to your own GitHub account. You can now edit the template and make it your own.
 - **Very Important**: Add .env into the .gitignore file. Otherwise you will be saving your OAuth codes publically.
