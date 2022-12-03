@@ -1,0 +1,24 @@
+{
+  "name": "colloquialbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js",
+    "watchstart": "nodemon bot.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^3.2.2",
+    "comfydb": "^2.0.4",
+    "discord.js": "^12.5.1",
+    "dotenv": "^8.2.0",
+    "tiny-text": "^1.0.1",
+    "tmi.js": "^1.8.5"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}

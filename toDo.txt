@@ -1,0 +1,3 @@
+Patch the reward generation in GetTwitchData
+
+Write out instructions

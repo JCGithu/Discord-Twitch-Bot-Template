@@ -1,0 +1,25 @@
+{
+  "MESSAGE ID FOR CHANGING ROLES":{
+    "He/Him":{
+      "emoji": "🧙",
+      "id": "775314298934132757"
+    },
+    "She/Her":{
+      "emoji": "🤠",
+      "id": "775314335114199060"
+    },
+    "They/Them":{
+      "emoji": "🦉",
+      "id": "775314439813595156"
+    },
+    "Stream":{
+      "emoji": "🔮",
+      "id": "786544562193432628"
+    },
+    "Games":{
+      "emoji": "🕹️",
+      "id": "786544365647691827"
+    }
+  },
+  "defaults":["DEFAULT ROLE IDs", "GO HERE"]
+}
